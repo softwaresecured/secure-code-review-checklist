@@ -1,0 +1,8 @@
+# Ghostwrite backup
+*.backup
+
+# Excel temporary
+~$*.xls*
+
+# Excel Backup File
+*.xlk
